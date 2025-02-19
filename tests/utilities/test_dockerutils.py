@@ -23,6 +23,7 @@ PYTHON_VERSION = f"{sys.version_info.major}.{sys.version_info.minor}"
         (None, "3.10", None, f"prefecthq/prefect-dev:sha-{COMMIT_SHA}-python3.10"),
         (None, "3.11", None, f"prefecthq/prefect-dev:sha-{COMMIT_SHA}-python3.11"),
         (None, "3.12", None, f"prefecthq/prefect-dev:sha-{COMMIT_SHA}-python3.12"),
+        (None, "3.13", None, f"prefecthq/prefect-dev:sha-{COMMIT_SHA}-python3.13"),
         (
             None,
             None,

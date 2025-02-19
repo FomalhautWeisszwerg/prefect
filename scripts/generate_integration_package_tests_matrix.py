@@ -8,10 +8,11 @@ PYTHON_VERSIONS = [
     "3.10",
     "3.11",
     "3.12",
+    "3.13",
 ]
 
 SKIP_VERSIONS = {
-    "prefect-ray": ["3.12"],
+    "prefect-ray": ["3.13"],
 }
 
 
